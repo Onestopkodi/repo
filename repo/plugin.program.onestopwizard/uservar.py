@@ -98,9 +98,9 @@ AUTOINSTALL = 'No'
 # Addon ID for the repository
 REPOID = 'repository.onestop'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/Onestopkodi/repo/master/repo/repository.onestop/addon.xml'
+REPOADDONXML = 'https://'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/Onestopkodi/repo/tree/master/repository.onestop'
+REPOZIPURL = 'https://'
 #########################################################
 
 #########################################################
