@@ -1,3 +1,6 @@
+id="plugin.program.aftermath"
+version="0.4.5"
+zip="url.to.wizard"
 
 name="OneStopKodi Build [COLORred](FIRESTICK-4K/FIRETV)[/COLOR] 2 BUILDS! In One"
 version="1.0"
