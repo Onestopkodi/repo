@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.onestop" name="[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]" version="1.5" provider-name="OneStopKodi">
+<addon id="repository.onestop" name="[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]" version="1.6" provider-name="OneStopKodi">
     <extension point="xbmc.addon.repository" name="OneStopRepo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Onestopkodi/repo/master/repo/zips/addons.xml</info>
