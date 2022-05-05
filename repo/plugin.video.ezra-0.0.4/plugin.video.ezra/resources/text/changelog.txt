@@ -1,0 +1,8 @@
+
+[B]Please utilize Tips (Tools->Tips for Use) to catch up on any important new features. New features will be highlighted with a [COLOR chartreuse]NEW!!![/COLOR] label.[/B]
+
+[COLOR dodgerblue][B]Version 0.0.1[/B][/COLOR]
+- Initial fork. 
+
+
+
