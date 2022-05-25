@@ -1,8 +1,8 @@
 
 name="OneStopBuild FireTV/GoogleTV"
 version="1.0"
-url="https://www.dropbox.com/s/in7e4ljx8zrpl1u/Build2.zip?dl=1"
-minor="https://www.dropbox.com/s/in7e4ljx8zrpl1u/Build2.zip?dl=1"
+url="https://www.dropbox.com/s/i8mcofp83esk8dx/Build2.zip?dl=1"
+minor="https://www.dropbox.com/s/i8mcofp83esk8dx/Build2.zip?dl=1"
 gui="https://"
 kodi="19.4"
 theme="https://"
