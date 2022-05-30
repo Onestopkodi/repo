@@ -17,8 +17,8 @@ description="[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD HEAVE
 
 name="OneStopBuild SHIELD TV/PC"
 version="1.0"
-url="https://www.dropbox.com/s/2i0d9uwr33aa4pc/Build.zip?dl=1"
-minor="https://www.dropbox.com/s/2i0d9uwr33aa4pc/Build.zip?dl=1"
+url="https://www.dropbox.com/s/jp8sw0flsqe5b2t/Build.zip?dl=1"
+minor="https://www.dropbox.com/s/jp8sw0flsqe5b2t/Build.zip?dl=1"
 gui="https://"
 kodi="19.4"
 theme="https://"
