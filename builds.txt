@@ -11,7 +11,8 @@ fanart="https://www.dropbox.com/s/9x624383mzv7dbi/Build2.zip?dl=1"
 preview="https://"
 adult="no"
 info="https://"
-description="[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD HEAVEN[/COLOR] 3 BUILDS In 1 
+description="[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD HEAVEN[/COLOR] 3 BUILDS In One
+
 [COLOR yellow]Compatible with ALL Devices[/COLOR]"
 
 name="OneStopBuild SHIELD TV/PC"
@@ -26,5 +27,6 @@ fanart="https://www.dropbox.com/s/95u2n2ey5p3p80w/fanart.jpg?dl=1"
 preview="https://"
 adult="no"
 info="https://"
-description="[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD HEAVEN[/COLOR] 5 BUILDS In 1 
+description="[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD HEAVEN[/COLOR] 5 BUILDS In One 
+
 [COLORred]Warning[/COLOR] Compatible with the [COLORlime]SHIELD TV[/COLOR]/PC Only"
