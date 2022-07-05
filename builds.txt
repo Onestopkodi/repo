@@ -1,8 +1,8 @@
 
 name="OneStopBuild FireTV/GoogleTV"
 version="1.0"
-url="https://www.dropbox.com/s/pp5ixg1sq2fa2r6/Build2.zip?dl=1"
-minor="https://www.dropbox.com/s/pp5ixg1sq2fa2r6/Build2.zip?dl=1"
+url="https://www.dropbox.com/s/i0al1idxiu7rv4o/Build2.zip?dl=1"
+minor="https://www.dropbox.com/s/i0al1idxiu7rv4o/Build2.zip?dl=1"
 gui="https://"
 kodi="19.4"
 theme="https://"
@@ -15,8 +15,8 @@ description="[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD HEAVE
 
 name="OneStopBuild SHIELD TV/PC"
 version="1.0"
-url="https://www.dropbox.com/s/w9rqr36n2wxdnzb/Build.zip?dl=1"
-minor="https://www.dropbox.com/s/w9rqr36n2wxdnzb/Build.zip?dl=1"
+url="https://www.dropbox.com/s/sxa88dfpxcmhw5y/Build.zip?dl=1"
+minor="https://www.dropbox.com/s/sxa88dfpxcmhw5y/Build.zip?dl=1"
 gui="https://"
 kodi="19.4"
 theme="https://"
