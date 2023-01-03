@@ -89,6 +89,36 @@
             <icon>icon.png</icon>
         </assets>
     </extension>
+</addon><addon id="plugin.program.skinchangeradvanced5" name="[COLOR yellow]Switch[/COLOR] To [COLOR white]Cosmic[/COLOR][COLOR gold]MOD[/COLOR]" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR white]Cosmic[/COLOR][COLOR gold]MOD[/COLOR]</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="plugin.program.skinchangeradvanced6" name="[COLOR yellow]Switch[/COLOR] To [COLOR lightblue]Estuary[/COLOR]" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR orange]OneStop[/COLOR][COLOR red]Titan[/COLOR]MOD</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
 </addon><addon id="repository.onestop" name="[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]" version="1.7" provider-name="OneStopKodi">
     <extension point="xbmc.addon.repository" name="OneStopRepo">
         <dir>
@@ -149,22 +179,4 @@
             <icon>icon.png</icon>
         </assets>
     </extension>
-</addon><addon id="script.tvskipintro" version="2021.12.03" name="TV Skip Intro" provider-name="zDuts but all credit to aenema">
-	<requires>
-		<import addon="xbmc.python" version="3.00.0" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-        <description>Prompt a Skip Intro dialog Netflix style. Skips intro for your favourite shows. The addon creates a database of your shows and stores a custom set skip value</description>
-	
-		<summary lang="en">Skip TV Shows Intro</summary>
-		<platform>all</platform>
-		<forum>-</forum>
-		<website>-</website>
-		<source>-</source>
-		<news>-</news>
-	</extension>
 </addon></addons>
