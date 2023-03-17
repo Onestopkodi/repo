@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR orange]OneStop[COLORlime]Wizard[/COLOR]'
 BUILDERNAME = 'OneStopKodi'
 EXCLUDES = [ADDON_ID, 'repository.onestop']
 # Text File with build info in it. Please read https://github.com/a4k-Onestopkodiproject/plugin.program.onestopwizard/wiki/Installing-Builds
-BUILDFILE = 'https://www.dropbox.com/s/b2lnscqrx5tfpis/builds.txt?dl=1'
+BUILDFILE = 'https://www.dropbox.com/s/sj5x2evdvdperpx/builds.txt?dl=1'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
