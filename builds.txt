@@ -1,8 +1,8 @@
 
 name="OneStopBuild"
 version="1.0"
-url="https://www.dropbox.com/s/y61jk9a1es0p3wd/Build2.zip?dl=1"
-minor="https://www.dropbox.com/s/y61jk9a1es0p3wd/Build2.zip?dl=1"
+url="https://www.dropbox.com/s/lnuzkfnafbs4n6x/Build.zip?dl=1"
+minor="https://www.dropbox.com/s/lnuzkfnafbs4n6x/Build.zip?dl=1"
 gui="https://"
 kodi="19.5"
 theme="https://"
