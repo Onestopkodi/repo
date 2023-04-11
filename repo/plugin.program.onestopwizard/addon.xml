@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.onestopwizard" name="[COLOR orange]OneStop[COLORlime]Wizard[/COLOR]" version="2.0.8" provider-name="OneStopKodi">
+<addon id="plugin.program.onestopwizard" name="[COLOR orange]OneStop[COLORlime]Wizard[/COLOR]" version="2.0.9" provider-name="OneStopKodi">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -21,7 +21,7 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://github.com/Onestopkodi/repo/tree/master/repo/repository.onestop</source>
         <news>
-2.0.7
+2.0.9
  - Initial Commit
         </news>
         <assets>
