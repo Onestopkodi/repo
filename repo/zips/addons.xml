@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="plugin.program.onestopwizard" name="[COLOR orange]OneStop[COLORlime]Wizard[/COLOR]" version="3.0.4" provider-name="OneStopKodi">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.requests" optional="false" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">[COLOR orange]OneStop[COLORlime]Wizard[/COLOR]</summary>
+		<description lang="en_GB">[COLOR orange]OneStop[COLORlime]Wizard[/COLOR] offers many maintenance features, selective add-on data saving, and automated build installs</description>
+		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<forum />
+		<website /> 
+		<email />
+		<source />
+		<news>3.0.4 - Added speedtest. Bugfixes. 3.0.0 - Added backup/restore functionality for trakt/debrid accounts. Updated debrid/trakt authorization section. Restore of gui/skin settings has been added. Updated Advancedsettings configs. Updated wizard artwork. Added user edited color options for menus. Fixed wizard writing over itself during build installs. Edited fresh start to keep wizard/dependencies. Removed double ok dialog during build installs. Numerous other small fixes throughout.
+		</news>
+		<assets>
+				<icon>resources/icon.png</icon>
+				<fanart>resources/fanart.jpg</fanart>
+				<banner />
+				<clearlogo />
+				<screenshot />
+		</assets>
+	</extension>
+</addon><addon id="plugin.program.skinchangeradvanced" name="[COLOR yellow]Switch[/COLOR] To [COLORdarkcyan]A[/COLOR]eonNox[COLORmaroon]M[/COLOR]OD" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to Aeon Nox Silvo [COLOR orange]OneStop[/COLOR][COLOR gray]MOD[/COLOR]</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="plugin.program.skinchangeradvanced2" name="[COLOR yellow]Switch[/COLOR] To [COLOR orange]OneStop[/COLOR][COLOR limegreen]Build 1.0[/COLOR]" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR orange]OneStop[/COLOR][COLOR limegreen]Build[/COLOR] 1.0</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="plugin.program.skinchangeradvanced3" name="[COLOR yellow]Switch[/COLOR] To [COLOR orange]OneStop[/COLOR][COLOR blue]Nox[/COLOR]MOD" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR orange]OneStop[/COLOR][COLOR blue]Nox[/COLOR]MOD</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="plugin.program.skinchangeradvanced4" name="[COLOR yellow]Switch[/COLOR] To [COLOR orange]OneStop[/COLOR][COLOR red]Titan[/COLOR]MOD" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR orange]OneStop[/COLOR][COLOR red]Titan[/COLOR]MOD</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="plugin.program.skinchangeradvanced5" name="[COLOR yellow]Switch[/COLOR] To [COLOR white]Cosmic[/COLOR][COLOR gold]MOD[/COLOR]" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR white]Cosmic[/COLOR][COLOR gold]MOD[/COLOR]</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="plugin.program.skinchangeradvanced6" name="[COLOR yellow]Switch[/COLOR] To [COLOR lightblue]Estuary[/COLOR]" version="1.1" provider-name="OneStopKodi Thanks to the dev SpiralCut">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skin Changer</summary>
+    <description lang="en">Change to [COLOR orange]OneStop[/COLOR][COLOR red]Titan[/COLOR]MOD</description>
+    <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon><addon id="repository.onestop" name="[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]" version="1.8" provider-name="OneStopKodi">
+    <extension point="xbmc.addon.repository" name="OneStopRepo">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Onestopkodi/repo/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Onestopkodi/repo/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Onestopkodi/repo/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]</summary>
+        <description>The official home of [COLOR orange]OneStop[/COLOR][COLOR limegreen]Repository[/COLOR]</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="script.rndmov" name="Random Movie" version="1.0.1" provider-name="OneStopKodi Thanks to the dev pdnagilum">
+    <requires>
+		<import addon="xbmc.python" version="3.0.0" />
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Play Random Movie</summary>
+    <summary lang="no">Spill av tilfeldig film</summary>
+		<description lang="en">Play a random movie from your Kodi library. Choose from all, watched, or unwatched.</description>
+    <description lang="no">Spill en tilfeldig film fra film bibliteket i Kodi. Velg fra alle, sette, eller usette.</description>
+		<license>MIT License</license>
+		<language />
+		<source>https://</source>
+		<email>@gmail.com</email>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon></addons>
