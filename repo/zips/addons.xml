@@ -119,7 +119,7 @@
             <icon>icon.png</icon>
         </assets>
     </extension>
-</addon><addon id="repository.onestop" name="[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]" version="1.8" provider-name="OneStopKodi">
+</addon><addon id="repository.onestop" name="[COLOR orange]OneStop[/COLOR][COLOR limegreen]Repo[/COLOR]" version="1.9" provider-name="OneStopKodi">
     <extension point="xbmc.addon.repository" name="OneStopRepo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Onestopkodi/repo/master/repo/zips/addons.xml</info>
