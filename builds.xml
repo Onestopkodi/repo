@@ -1,0 +1,21 @@
+<builds>
+
+  <build>
+	<name>OneStopBuild</name>
+	<version>1.0</version>
+	<url>https://www.dropbox.com/s/rog3luvvtjky23p/Build2.zip?dl=1</url>
+	<icon>https://www.dropbox.com/s/orh7yt6aqeu8ws2/icon-builds2.png?dl=1</icon>
+	<fanart>https://www.dropbox.com/s/6cjvbbeo9og64ig/fanart-builds2.jpg?dl=1</fanart>
+	<description>[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]BUILD[/COLOR] [COLOR yellow]Compatible with ALL Devices[/COLOR]</description>
+  </build>
+
+  <build>
+	<name>OneStopBuild Espanol Build</name>
+	<version>1.0</version>
+	<url>https://www.dropbox.com/s/sfo5286q9wt14mm/Build3.zip?dl=1</url>
+	<icon>https://www.dropbox.com/s/orh7yt6aqeu8ws2/icon-builds2.png?dl=1</icon>
+	<fanart>https://www.dropbox.com/s/6cjvbbeo9og64ig/fanart-builds2.jpg?dl=1</fanart>
+	<description>[COLOR orange]OneStop[COLORlime]Kodi[/COLOR] [COLORblue]Espanol Build[/COLOR] [COLOR yellow]Compatible with ALL Devices[/COLOR]</description>
+  </build>  
+
+</builds>
